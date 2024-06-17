@@ -1,116 +1,145 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Mr Johnson
+This website was created to provide an easy way for fans of Mr Johnson to keep track of news, gigs and general info of the band.
+## Contents
+* [User Experience](#user-experience-ux)
+  * [User Stories](#user-stories)
 
-Welcome USER_NAME,
+* [Design](#design)
+  * [Colour Scheme](#colour-scheme)
+  * [Typography](#typography)
+  * [Imagery](#imagery)
+  * [Wireframes](#wireframes)
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+* [Features](#features)
+  * [General Features on Each Page](#general-features-on-each-page)
+  * [Future Implementations](#future-implementations)
+  * [Accessibility](#accessibility)
 
-You can safely delete this README.md file or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **June 14, 2024**
+* [Technologies Used](#technologies-used)
+  * [Languages Used](#languages-used)
+  * [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
 
-## Gitpod Reminders
+* [Deployment & Local Development](#deployment--local-development)
+  * [Deployment](#deployment)
+  * [Local Development](#local-development)
+    * [How to Fork](#how-to-fork)
+    * [How to Clone](#how-to-clone)
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+* [Testing](#testing)
 
-`python3 -m http.server`
+* [Credits](#credits)
+  * [Code Used](#code-used)
+  * [Content](#content)
+  * [Media](#media)
+  * [Acknowledgments](#acknowledgments)
 
-A blue button should appear to click: _Make Public_,
+## User Experience (UX)
 
-Another blue button should appear to click: _Open Browser_.
+### User Stories
 
-To run a backend Python file, type `python3 app.py` if your Python file is named `app.py`, of course.
+## Design
 
-A blue button should appear to click: _Make Public_,
+### Colour Scheme
 
-Another blue button should appear to click: _Open Browser_.
+### Typography
 
-By Default, Gitpod gives you superuser security privileges. Therefore, you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+### Imagery
 
-To log into the Heroku toolbelt CLI:
+Being a website for a band, most of the imagry will be either shots of the band or some more artistic shots that relate to the band.
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+### Wireframes
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you, so do not share it. If you accidentally make it public, you can create a new one with _Regenerate API Key_.
+## Features
 
-------
+👩🏻‍💻 View an example of a completed user experience section [here](https://github.com/kera-cudmore/TheQuizArms#Features)
 
-## Release History
+This section can be used to explain what pages your site is made up of.
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+### General features on each page
 
-**June 14, 2024,** Temporarily remove Mongo until key issue is resolved
+If there is a feature that appears on all pages of your site, include it here. Examples of what to include would the the navigation, a footer and a favicon.
 
-**May 28 2024:** Fix Mongo and Links installs
+I then like to add a screenshot of each page of the site here, i use [amiresponsive](https://ui.dev/amiresponsive) which allows me to grab an image of the site as it would be displayed on mobile, tablet and desktop, this helps to show the responsiveness of the site.
 
-**April 26 2024:** Update node version to 16
+### Future Implementations
 
-**September 20 2023:** Update Python version to 3.9.17.
+What features would you like to implement in the future on your site? Would you like to add more pages, or create login functionality? Add these plans here.
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+### Accessibility
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+Be an amazing developer and get used to thinking about accessibility in all of your projects!
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+This is the place to make a note of anything you have done with accessibility in mind. Some examples include:
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+Have you used icons and added aria-labels to enable screen readers to understand these?
+Have you ensured your site meets the minimum contrast requirements?
+Have you chosen fonts that are dyslexia/accessible friendly?
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+Code Institute have an amazing channel for all things accessibility (a11y-accessibility) I would highly recommend joining this channel as it contains a wealth of information about accessibility and what we can do as developers to be more inclusive.
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+## Technologies Used
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+### Languages Used
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+HTML
+CSS
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+### Frameworks, Libraries & Programs Used
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+Balsamiq - Used to create wireframes
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+Coolers - Used for colour palette selection
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+Google Fonts - Used for Fonts
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+Replit - Used to write the code
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+## Deployment & Local Development
 
-------
+👩🏻‍💻 View an example of a completed Deployment & Local Development section [here](https://github.com/kera-cudmore/TheQuizArms#Deployment)
 
-## FAQ about the uptime script
+### Deployment
 
-**Why have you added this script?**
+Include instructions here on how to deploy your project. For your first project you will most likely be using GitHub Pages.
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+### Local Development
 
-**How will this affect me?**
+The local development section gives instructions on how someone else could make a copy of your project to play with on their local machine. This section will get more complex in the later projects, and can be a great reference to yourself if you forget how to do this.
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+#### How to Fork
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+Place instructions on how to fork your project here.
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
+#### How to Clone
 
-**So….?**
+Place instructions on how to clone your project here.
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+## Testing
 
-**Can I opt out?**
+Start as you mean to go on - and get used to writing a TESTING.md file from the very first project!
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
+Testing requirements aren't massive for your first project, however if you start using a TESTING.md file from your first project you will thank yourself later when completing your later projects, which will contain much more information.
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
+Use this part of the README to link to your TESTING.md file - you can view the example TESTING.md file [here](milestone1-testing.md)
 
-**Anything more?**
+## Credits
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+👩🏻‍💻 View an example of a completed Credits section [here](https://github.com/kera-cudmore/BookWorm#Credits)
 
----
+The Credits section is where you can credit all the people and sources you used throughout your project.
 
-Happy coding!
+### Code Used
+
+If you have used some code in your project that you didn't write, this is the place to make note of it. Credit the author of the code and if possible a link to where you found the code. You could also add in a brief description of what the code does, or what you are using it for here.
+
+### Content
+
+Who wrote the content for the website? Was it yourself - or have you made the site for someone and they specified what the site was to say? This is the best place to put this information.
+
+###  Media
+
+If you have used any media on your site (images, audio, video etc) you can credit them here. I like to link back to the source where I found the media, and include where on the site the image is used.
+
+###  Acknowledgments
+
+If someone helped you out during your project, you can acknowledge them here! For example someone may have taken the time to help you on slack with a problem. Pop a little thank you here with a note of what they helped you with (I like to try and link back to their GitHub or Linked In account too). This is also a great place to thank your mentor and tutor support if you used them.
