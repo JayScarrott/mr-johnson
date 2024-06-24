@@ -65,8 +65,13 @@ body {
   #page-header {
     font-family: "Bungee Outline", sans-serif;
     font-size: 40px;
-    background-color: #8EE1D7;
     color: #f55e07;
+  }
+
+  #page-header h1 {
+    margin-left: 2px;
+    text-shadow: #8EE1D7;
+    text-decoration:underline;
   }
 
   footer a{
