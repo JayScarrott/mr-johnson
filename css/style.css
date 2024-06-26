@@ -115,10 +115,11 @@ p {
 #band-bios img {
   width:150px;
   height: 150px;
+  margin: auto;
 }
 
 #band-pics img {
   width:150px;
   height: 150px;
-  position: 
+  margin: auto;
 }
