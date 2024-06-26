@@ -115,11 +115,21 @@ p {
 #band-bios img {
   width:150px;
   height: 150px;
+}
+
+#band-bios {
+  margin: auto;
+}
+
+#band-pics {
   margin: auto;
 }
 
 #band-pics img {
   width:150px;
   height: 150px;
+}
+
+#music {
   margin: auto;
 }
