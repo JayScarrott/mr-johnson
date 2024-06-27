@@ -37,11 +37,20 @@ This website was created to provide an easy way for fans of Mr Johnson to keep t
 
 ### User Stories
 
+The band and I all had an initial meeting, where we discussed what we wanted the website to be. We covered layout, colour scheme, fonts, and overall content.
+I let the band discuss their ideas and helped guide them towards realistic expectations as this wold be my first website.
+
 ## Design
 
 ### Colour Scheme
 
+We knew initially that we wanted the page to have a warm feel, yellows and oranges were agreed upon. Then we gravitated towards more 60s/70s styling, so reds and light blues were used to compliment and contrast with the base colours.
+
 ### Typography
+
+![Font Ideas](readme/IMG-20240610-WA0000.png)
+
+Once we knew the overall "vibe" we were going for, we looked at a lot of different fonts. One of the band members sent the above picture with font ideas. I did say that I may not be able to use them exactly, as they are from 1001fonts and dafont, but I'll stick as close as I can, wishing to use Google fonts for my first project, to keep things relatively simple.
 
 ### Imagery
 
@@ -92,7 +101,11 @@ Coolers - Used for colour palette selection
 
 Google Fonts - Used for Fonts
 
-Replit - Used to write the code
+Replit - Initially used to write the code before moving to Visual Studio
+
+Visual Studio Code - Used to write code for main project
+
+Notepad - Quick place to store code when changing for comparison
 
 ## Deployment & Local Development
 
@@ -147,3 +160,5 @@ Paul Bowers
 Graeme Taylor
 
 Kera Cudmore [https://github.com/kera-cudmore/readme-examples/commits?author=kera-cudmore]
+
+[def]: readme/font-ideas.webp
