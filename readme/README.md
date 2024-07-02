@@ -35,12 +35,19 @@ This website was created to provide an easy way for fans of Mr Johnson to keep t
 
 ## User Experience (UX)
 
-### User Stories
+### Initial Discussion
 
 The band and I all had an initial meeting, where we discussed what we wanted the website to be. We covered layout, colour scheme, fonts, and overall content.
 I let the band discuss their ideas and helped guide them towards realistic expectations as this would be my first website.
 
-I want the user to be able to clearly see that this is the website the band Mr Johnson, and be able to find the exact content they want with ease.
+### User Stories
+
+#### First Time Visitor Goals
+
+* All the information fans of the band would like
+* Easy navigation throughout the site
+* Quick access to social media of Mr Johnson
+* Consistent style throughout the the site, fitting Mr Johnson
 
 ## Design
 
