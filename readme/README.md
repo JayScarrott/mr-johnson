@@ -142,7 +142,7 @@ If you have used some code in your project that you didn't write, this is the pl
 
 ### Content
 
-Who wrote the content for the website? Was it yourself - or have you made the site for someone and they specified what the site was to say? This is the best place to put this information.
+I wrote the majority of the content, but the band members all wrote their own bios for the about page.
 
 ###  Media
 
