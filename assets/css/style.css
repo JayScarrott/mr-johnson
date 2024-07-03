@@ -10,6 +10,33 @@ body {
   background-color: #efd595;
 }
 
+.navbar {
+  background-color: #8EE1D7;
+}
+
+.navbar-brand {
+  color: #f55e07;
+  font-family: "Bungee Outline", sans-serif;
+  font-weight: 900;
+  font-size: 40px;
+}
+
+.nav.navbar-nav {
+  color: #f55e07;
+  font-size: 40px;
+  font-family: "Bebas Neue", sans-serif;
+  text-decoration: none;
+}
+
+.nav:hover {
+  color: black;
+  font-family: "Bebas Neue", sans-serif;
+}
+
+.active {
+  color: black;
+}
+
 .page-header {
   text-align: center;
   font-size: 80px;
@@ -21,13 +48,4 @@ body {
 #cover-photo {
   height: 400px;
   width: 1000px;
-}
-
-test {
-font-family: "Bungee Outline"; sans-serif;
-font-family: "Bebas Neue", sans-serif;
-background-color: #8EE1D7;
-background-color: #EFD595;
-color: #f55e07;
-color: #4a4a4f;
 }
