@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,21 +11,49 @@
         integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous">
     </script>
 </head>
+
 <body>
 
-    <!--Header-->
-    <header class="row">
-        <div class="container-fluid col-11">
-            <a href="index.html" class="logo">Mr Johnson</a>
-            <div class="header-right">
-                <a class="active" href="index.html">Home</a>
-                <a href="about.html">About</a>
-                <a href="our-music.html">Our Music</a>
-                <a href="gallery.html">Gallery</a>
+    <!--Nav bar-->
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="index.html">Mr Johnson</a>
             </div>
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="#">Home</a>
+                    <a href="index.html">Home</a>
+                    <a href="about.html">About</a>
+                    <a href="our-music.html">Our Music</a>
+                    <a href="gallery.html">Gallery</a>
+            </ul>
         </div>
-    </header>
-    <!--Header-->
-    
+    </nav>
+    <!--Nav bar-->
+
+    <!-- Gallery -->
+    <div class="row">
+        <div class="col-lg-4 mb-4 mb-lg-0">
+            <img src="assets/img/dog.jpg" class="w-100 shadow-1-strong rounded mb-4" alt="Jerry the Dog" />
+
+            <img src="assets/img/jay-recording.jpg" class="w-100 shadow-1-strong rounded mb-4" alt="Jay recording" />
+        </div>
+
+        <div class="col-lg-4 mb-4 mb-lg-0">
+            <img src="assets/img/lee-recording.jpg" class="w-100 shadow-1-strong rounded mb-4" alt="Lee recording" />
+
+            <img src="assets/img/neil-recording.jpg" class="w-100 shadow-1-strong rounded mb-4" alt="Neil recording" />
+        </div>
+
+        <div class="col-lg-4 mb-4 mb-lg-0">
+            <img src="" class="w-100 shadow-1-strong rounded mb-4" alt="" />
+
+            <img src=""
+                class="w-100 shadow-1-strong rounded mb-4" alt="" />
+        </div>
+    </div>
+    <!-- /.gallery -->
+
 </body>
+
 </html>
