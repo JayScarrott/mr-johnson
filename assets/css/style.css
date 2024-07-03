@@ -21,7 +21,7 @@ body {
   font-size: 40px;
 }
 
-.nav.navbar-nav {
+.nav.navbar-nav a {
   color: #f55e07;
   font-size: 40px;
   font-family: "Bebas Neue", sans-serif;

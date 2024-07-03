@@ -57,7 +57,7 @@ We knew initially that we wanted the page to have a warm feel, yellows and orang
 
 ### Typography
 
-![Font Ideas](readme/IMG-20240610-WA0000.png)
+![Font Ideas](assets/readme/font-ideas.webp)
 
 Once we knew the overall "vibe" we were going for, we looked at a lot of different fonts. One of the band members sent the above picture with font ideas. I did say that I may not be able to use them exactly, as they are from 1001fonts and dafont, but I'll stick as close as I can, wishing to use Google fonts for my first project, to keep things relatively simple.
 
