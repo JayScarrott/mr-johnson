@@ -21,6 +21,8 @@ body {
   font-size: 40px;
 }
 
+.navbar-nav {
+}
 .nav.navbar-nav a {
   color: #f55e07;
   font-size: 40px;
