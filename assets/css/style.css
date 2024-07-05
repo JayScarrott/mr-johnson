@@ -4,15 +4,13 @@
 
 * {
   box-sizing: border-box;
+  font-family: "Roboto Mono", sans-serif;
+  text-align: center;
 }
 
 body {
   background-color: #efd595;
   padding: 80px;
-}
-
-* {
-  font-family: "Roboto Mono", sans-serif;
 }
 
 .navbar {
@@ -27,14 +25,16 @@ body {
   font-size: 40px;
 }
 
-.nav.navbar-nav a {
+.navbar-nav a {
   color: #f55e07;
   font-size: 40px;
   font-family: "Bebas Neue", sans-serif;
   text-decoration: none;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
-.nav:hover {
+.navbar-nav a:hover {
   color: black;
   font-family: "Bebas Neue", sans-serif;
 }
@@ -60,6 +60,10 @@ body {
 
 .songs h3 {
   font-family: "Bebas Neue", Arial, Helvetica, sans-serif ;
+}
+
+#intro {
+  width: 50%;
 }
 
 #band-bio {
