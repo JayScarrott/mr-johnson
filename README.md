@@ -102,6 +102,12 @@ Visual Studio Code - Used to write code for main project
 
 Notepad - Quick place to store code when changing for comparison
 
+CloudConvert - Converting JPG to Webp
+
+FreeConvert - Converting JPG to Webp
+
+www.photoresizer.com - resizing images
+
 ## Deployment & Local Development
 
 👩🏻‍💻 View an example of a completed Deployment & Local Development section [here](https://github.com/kera-cudmore/TheQuizArms#Deployment)
