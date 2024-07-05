@@ -48,7 +48,7 @@ body {
   font-size: 70px;
   font-weight: 800;
   color: #f55e07;
-  font-family: "Bungee Outline", sans-serif;
+  font-family: "Bungee Outline", Arial, Helvetica, sans-serif;
   padding-bottom: 4rem;
   padding-top: 4rem;
 }
@@ -58,6 +58,10 @@ body {
   scroll-margin-top: 5rem;
 }
 
+.songs h3 {
+  font-family: "Bebas Neue", Arial, Helvetica, sans-serif ;
+}
+
 #band-bio {
   text-align: center;
 }
@@ -65,4 +69,17 @@ body {
 #our-music-intro {
   text-align: center;
   padding-bottom: 4rem;
+}
+
+#footer{
+  background-color: #8EE1D7;
+  
+}
+
+#footer a {
+  color: black;
+  font-family: "Bebas Neue", Arial, Helvetica, sans-serif;
+  text-decoration: underline;
+  font-size: 20px;
+  font-weight: 100;
 }
