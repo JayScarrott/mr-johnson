@@ -11,8 +11,13 @@ body {
   padding: 80px;
 }
 
+* {
+  font-family: "Roboto Mono", sans-serif;
+}
+
 .navbar {
   background-color: #8EE1D7;
+
 }
 
 .navbar-brand {
@@ -44,6 +49,11 @@ body {
   font-weight: 800;
   color: #f55e07;
   font-family: "Bungee Outline", sans-serif;
+}
+
+.page-start {
+  scroll-padding-top: 4rem;
+  scroll-margin-top: 6rem;
 }
 
 #band-bio {
