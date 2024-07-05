@@ -49,13 +49,20 @@ body {
   font-weight: 800;
   color: #f55e07;
   font-family: "Bungee Outline", sans-serif;
+  padding-bottom: 4rem;
+  padding-top: 4rem;
 }
 
 .page-start {
   scroll-padding-top: 4rem;
-  scroll-margin-top: 6rem;
+  scroll-margin-top: 5rem;
 }
 
 #band-bio {
   text-align: center;
+}
+
+#our-music-intro {
+  text-align: center;
+  padding-bottom: 4rem;
 }
