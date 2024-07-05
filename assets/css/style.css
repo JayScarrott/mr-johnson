@@ -9,24 +9,25 @@
 }
 
 body {
-  background-color: #efd595;
+  background-color: #FFEF61;
   padding: 80px;
 }
 
 .navbar {
-  background-color: #8EE1D7;
+  background-color: #25555B;
 
 }
 
 .navbar-brand {
-  color: #f55e07;
+  color: #FFEF61;
   font-family: "Bungee Outline", sans-serif;
-  font-weight: 900;
+  font-weight:bold;
   font-size: 40px;
+  
 }
 
 .navbar-nav a {
-  color: #f55e07;
+  color: #FFEF61;
   font-size: 40px;
   font-family: "Bebas Neue", sans-serif;
   text-decoration: none;
@@ -45,9 +46,10 @@ body {
 
 .page-header {
   text-align: center;
+  text-decoration: underline;
   font-size: 70px;
   font-weight: 800;
-  color: #f55e07;
+  color: black;
   font-family: "Bungee Outline", Arial, Helvetica, sans-serif;
   padding-bottom: 4rem;
   padding-top: 4rem;
