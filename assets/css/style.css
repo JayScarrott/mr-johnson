@@ -2,6 +2,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bungee+Outline&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
 
+@media screen and (max-width: 768px) {
+  h1{
+      font-size:14px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  h3{
+      font-size:14px;
+  }
+}
+
 * {
   box-sizing: border-box;
   font-family: "Roboto Mono", sans-serif;
@@ -47,7 +59,6 @@ body {
 .page-header {
   text-align: center;
   text-decoration: underline;
-  font-size: 70px;
   font-weight: 800;
   color: black;
   font-family: "Bungee Outline", Arial, Helvetica, sans-serif;
