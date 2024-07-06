@@ -152,8 +152,6 @@ My website was used to deploy my website, the instructions are as follows:
 
 ### Local Development
 
-The local development section gives instructions on how someone else could make a copy of your project to play with on their local machine. This section will get more complex in the later projects, and can be a great reference to yourself if you forget how to do this.
-
 #### How to Fork
 
 1. Log in (or sign up) to Github.
@@ -172,6 +170,7 @@ The local development section gives instructions on how someone else could make 
 ## Testing
 
 [W3C CSS](assets/readme/w3c-css.jpg)
+[W3C HTML](assets/readme/w3c-html.jpg)
 
 ## Credits
 
