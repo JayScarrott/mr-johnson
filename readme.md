@@ -58,7 +58,9 @@ We knew initially that we wanted the page to have a warm feel, yellows and orang
 
 Once I actually began styling the website with the initial colour scheme, I tested the accessibility on Google developer tools, with Lighthouse, and found that with the current colour scheme, the text, especially the headings, were very hard to read. I used the Deque University Colour Contrast Analyzer, and it turns out that orange text is rather hard to read.
 
-I've changed the colour scheme to mainly consist of yellows and blues, with black text. This helps with the accessibility of the site, but gives the website quite a striking presentation.
+I've changed the colour scheme to mainly consist of yellow and blue, with black text. This helps with the accessibility of the site, but gives the website quite a striking presentation.
+
+![Colour Palette](assets/readme/cooler.jpg)
 
 ### Typography
 
@@ -87,9 +89,15 @@ Being a website for a band, most of the imagery will be either shots of the band
 
 ### Future Implementations
 
-What features would you like to implement in the future on your site? Would you like to add more pages, or create login functionality? Add these plans here.
+Having changed my website to a one-page website, I'd like to make it clear
 
 ### Accessibility
+
+I have tried my hardest to make the site as accessible as possible, I have done this by:
+
+* Using semantic HTML
+* Having a contrasting colour scheme
+* Easy to read text
 
 ## Technologies Used
 
