@@ -2,6 +2,7 @@
 This website was created to provide an easy way for fans of Mr Johnson to keep track of news, gigs and general info of the band.
 ## Contents
 * [User Experience](#user-experience-ux)
+  * [Initial Discussion](#initial-discussion)
   * [User Stories](#user-stories)
 
 * [Design](#design)
@@ -55,6 +56,10 @@ I let the band discuss their ideas and helped guide them towards realistic expec
 
 We knew initially that we wanted the page to have a warm feel, yellows and oranges were agreed upon. Then we gravitated towards more 60s/70s styling, so reds and light blues were used to compliment and contrast with the base colours.
 
+Once I actually began styling the website with the initial colour scheme, I tested the accessibility on Google developer tools, with Lighthouse, and found that with the current colour scheme, the text, especially the headings, were very hard to read. I used the Deque University Colour Contrast Analyzer, and it turns out that orange text is rather hard to read.
+
+I've changed the colour scheme to mainly consist of yellows and blues, with black text. This helps with the accessibility of the site, but gives the website quite a striking presentation.
+
 ### Typography
 
 ![Font Ideas](assets/readme/font-ideas.webp)
@@ -67,13 +72,18 @@ Being a website for a band, most of the imagery will be either shots of the band
 
 ### Wireframes
 
+![Home Page](assets/readme/home.png)
+![Videos](assets/readme/videos.png)
+![About](assets/readme/about.png)
+![Our Music](assets/readme/our-music.png)
+![Gallery](assets/readme/gallery.png)
+
 ## Features
 
 ### General features on each page
 
-* All pages on the website have:
-
-  * A header that consists of a logo with a hyperlink to the Home page and a responsive navigation bar, with buttons for each page of the site.
+* A header that consists of a logo with a hyperlink to the Home page and a responsive navigation bar, with buttons for each page of the site.
+* A footer that has links to Youtube, Facebook and an email link that all open in new pages.
 
 ### Future Implementations
 
@@ -107,6 +117,8 @@ CloudConvert - Converting JPG to Webp
 FreeConvert - Converting JPG to Webp
 
 www.photoresizer.com - resizing images
+
+Deque University Colour Contrast Analyzer - Checking colour contrast for accessibility
 
 ## Deployment & Local Development
 
