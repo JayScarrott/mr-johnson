@@ -89,7 +89,8 @@ Being a website for a band, most of the imagery will be either shots of the band
 
 ### Future Implementations
 
-Having changed my website to a one-page website, I'd like to make it clear
+* Having changed my website to a one-page website, I'd like to make it clear which page is actually active, once you've reached the anchor for that page section.
+* I'd like to have a more diverese colour scheme, but my main focus was accessibility with this current iteration.
 
 ### Accessibility
 
@@ -107,6 +108,8 @@ HTML
 CSS
 
 ### Frameworks, Libraries & Programs Used
+
+Bootstrap 5.3 - This helped me to make the page more responsive and made the layout easier to manage.
 
 Balsamiq - Used to create wireframes
 
