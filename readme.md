@@ -137,7 +137,16 @@ Deque University Colour Contrast Analyzer - Checking colour contrast for accessi
 
 ### Deployment
 
-Include instructions here on how to deploy your project. For your first project you will most likely be using GitHub Pages.
+My website was used to deploy my website, the instructions are as follows:
+
+1. Log into/sign-up to Github
+2. Locate the repository, JayScarrott/mr-johnson, (https://github.com/JayScarrott/mr-johnson).
+3. Click on the settings link, located at the top-middle of the page
+4. Click on the Pages link, located on the left, in the side navigation bar.
+5. In the source section, select Deploy from a Branch.
+6. In the Branch section, below the source section, select the dropdown menu for select branch and selct main. 
+7. Then for the folder, in the drop down menu, selec root.
+8. Click Save and the website will be live.
 
 ### Local Development
 
@@ -145,11 +154,18 @@ The local development section gives instructions on how someone else could make 
 
 #### How to Fork
 
-Place instructions on how to fork your project here.
+1. Log in (or sign up) to Github.
+2. Go to the repository for this project, JayScarrott/mr-johnson, (https://github.com/JayScarrott/mr-johnson).
+3. Click the Fork button in the top right corner.
 
 #### How to Clone
 
-Place instructions on how to clone your project here.
+1. Log in (or sign up) to GitHub.
+2. Go to the repository for this project, JayScarrott/mr-johnson, (https://github.com/JayScarrott/mr-johnson).
+3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
+
 
 ## Testing
 
