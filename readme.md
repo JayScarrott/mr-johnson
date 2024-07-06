@@ -95,12 +95,13 @@ Being a website for a band, most of the imagery will be either shots of the band
 
 * Having changed my website to a one-page website, I'd like to make it clear which page is actually active, once you've reached the anchor for that page section.
 * I'd like to have a more diverese colour scheme, but my main focus was accessibility with this current iteration.
+* Include more content so the website can go back to having multiple seperate HTML as opposed to one.
 
 ### Accessibility
 
 I have tried my hardest to make the site as accessible as possible, I have done this by:
 
-* Using semantic HTML
+* Using semantic HTML where possible
 * Having a contrasting colour scheme
 * Easy to read text
 
