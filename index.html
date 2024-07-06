@@ -20,28 +20,31 @@
 <body>
 
     <!--Nav bar-->
-    <nav class="navbar navbar-expand-lg fixed-top mb-20px">
-        <div class="col-12 container-fluid">
-            <a class="navbar-brand" href="#">Mr Johnson</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
-                aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
-                <div class="navbar-nav">
-                    <a href="#home">Home</a>
-                    <a href="#videos">Videos</a>
-                    <a href="#about">About</a>
-                    <a href="#our-music">Our Music</a>
-                    <a href="#gallery">Gallery</a>
+    <div class="container">
+        <nav class="navbar navbar-expand-lg fixed-top mb-20px">
+            <div class="col-12 container-fluid">
+                <a class="navbar-brand" href="#">Mr Johnson</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false"
+                    aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
+                    <div class="navbar-nav">
+                        <a href="#home">Home</a>
+                        <a href="#videos">Videos</a>
+                        <a href="#about">About</a>
+                        <a href="#our-music">Our Music</a>
+                        <a href="#gallery">Gallery</a>
+                    </div>
                 </div>
             </div>
-        </div>
-    </nav>
+        </nav>
+    </div>
     <!--Nav bar-->
 
     <!--Home page start-->
-    <div id="home-page">
+    <div class="container" id="home-page">
         <!--Heading for page-->
         <div id="home" class="col-12 page-start">
             <h1 class="page-header">Mr Johnson</h1>
@@ -50,7 +53,7 @@
 
         <!--Cover image and intro for website-->
         <div class="row mx-auto">
-            <div class="col-12 mx-auto container d-flex align-items-center justify-content-center">
+            <div class="col-12 mx-auto">
                 <img src="assets/img/cover images/band-pic-blue.webp"
                     class="img-thumbnail img-fluid rounded shadow-4-strong" alt="Mr Johnson in blue">
             </div>
@@ -72,7 +75,7 @@
 
 
     <!--Videos page end-->
-    <div id=videos-page>
+    <div class="container" id=videos-page>
         <!--Heading for page-->
         <div class="row">
             <div id="videos" class="col-12 page-start">
@@ -82,13 +85,13 @@
         <!--Heading for page-->
 
         <!--videos-->
-        <div class="row container-fluid">
+        <div class="row container-fluid text-center">
             <div class="col-12 col-sm-12">
                 <h3>Mr Johnson - Soap</h3>
             </div>
             <div class="embed-respsonsive embed-responsive-16by9">
-                <iframe class="embed-respsonsive-item" width="560" height="315" src="https://www.youtube.com/embed/fRzmT92pmds?si=A_fNZnvKNWARche3"
-                    title="YouTube video player" frameborder="0"
+                <iframe class="embed-respsonsive-item" width="560" height="315"
+                    src="https://www.youtube.com/embed/fRzmT92pmds?si=A_fNZnvKNWARche3" title="YouTube video player"
                     allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                     referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
                 </iframe>
@@ -97,15 +100,20 @@
                 <p>Here is Mr Johnson playing Soap at one of our favourite places to gig, The Dog Inn, Water Orton.
                 </p>
             </div>
-        </div>
 
-        <div class="embed-respsonsive embed-responsive-16by9">
-            <h3>Mr Johnson - Seconds Away</h3>
-            <iframe class="embed-respsonsive-item" width="560" height="315" src="https://www.youtube.com/embed/eEsEadCnmXI?si=mhurKaDkJ5_CK0bO"
-                title="YouTube video player" frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-            <p>This video of Mr Johnson features them playing at The Feathers in Lichfeild.</p>
+
+            <div class="embed-respsonsive embed-responsive-16by9">
+                <div class="col-12 col-sm-12">
+                    <h3>Mr Johnson - Seconds Away</h3>
+                </div>
+                <iframe class="embed-respsonsive-item" width="560" height="315"
+                    src="https://www.youtube.com/embed/eEsEadCnmXI?si=mhurKaDkJ5_CK0bO" title="YouTube video player"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <div class="col-12 col-sm-12">
+                    <p>This video of Mr Johnson features them playing at The Feathers in Lichfeild.</p>
+                </div>
+            </div>
         </div>
     </div>
     <!--=videos-->
@@ -113,7 +121,7 @@
     <!--Videos page end-->
 
     <!--About page start-->
-    <div id="about-page">
+    <div class="container" id="about-page">
         <!--Heading for page-->
         <div class="row mx-auto">
             <div id="about" class="col-sm-12 page-start">
@@ -135,7 +143,7 @@
 
             <div class="col-lg-3 md-6 col-sm-12">
                 <img src="assets/img/profile images/neil-profile.webp"
-                    class="img-thumbnail img-fluid rounded-circle shadow-4-strong" alt="Neil the floutist/singer">       
+                    class="img-thumbnail img-fluid rounded-circle shadow-4-strong" alt="Neil the floutist/singer">
                 <p>Neil, flute player and backing vocals (and occasional lead vocals). The flute is a strange
                     instrument, which is okay because he plays it in a strange way. Musical influences include Jethro
                     Tull, Broken Family Band, Turin Brakes, and depressing songs in general. He is a really cheery guy
@@ -166,7 +174,7 @@
     <!--About page end-->
 
     <!--Our Music page start-->
-    <div id="music-page">
+    <div class="container text-center" id="music-page">
         <!--Heading for page-->
         <div class="row">
             <div id="our-music" class="col-12 page-start">
@@ -183,7 +191,7 @@
         </div>
 
         <!--Band songs-->
-        <div class="row mx-auto text-center d-flex justify-content-evenly">
+        <div id="songs" class="row mx-auto text-center">
             <div class="col-lg-3 md-2 sm-0">
                 <h3>Foundation Stones</h3>
                 <audio title="Foundation Stones" src="assets/audio/foundation-stones.mp3" controls></audio>
@@ -206,7 +214,7 @@
     <!--Our Music page end-->
 
     <!--Gallery page start-->
-    <div id="gallery-page">
+    <div class="container" id="gallery-page">
         <!--Heading for page-->
         <div class="row">
             <div id="gallery" class="col-12 page-start">
@@ -217,7 +225,7 @@
 
         <!-- Gallery -->
         <div class="row m-0">
-            <div class="col-lg-4 md-4 sm-0">
+            <div class="col-lg-4 col-md-4 col-sm-12">
                 <img src="assets/img/gallery images/lee-recording.webp" class="w-100 shadow-1-strong rounded mb-4"
                     alt="Lee recording" />
 
@@ -238,7 +246,7 @@
 
             </div>
 
-            <div class="col-lg-4 md-4 sm-0">
+            <div class="col-lg-4 col-md-4 col-sm-12">
                 <img src="assets/img/gallery images/neil-recording.webp" class="w-100 shadow-1-strong rounded mb-4"
                     alt="Neil recording" />
 
@@ -258,7 +266,7 @@
                     class="w-100 shadow-1-strong rounded mb-4" alt="Mr Johnson playing at the Needlemakers Arms" />
             </div>
 
-            <div class="col-lg-4 md-4 sm-0">
+            <div class="col-lg-4 col-md-4 col-sm-12">
                 <img src="assets/img/gallery images/gary-recording.webp" class="w-100 shadow-1-strong rounded mb-4"
                     alt="Gary recording" />
 
@@ -284,11 +292,16 @@
     <!--Gallery page end-->
 
     <!--Footer-->
-    <div id="footer" class="row text-center d-flex justify-content-around m-0 fixed-bottom">
-        <div class="col-xl-4 lg-4 sm-12"><a href="mailto:jayscarrott22@gmail.com" target="_blank">Email</a></div>
-        <div class="col-xl-4 lg-4 sm-12"><a href="https://www.youtube.com/@mrjohnsontheband" target="_blank">Youtube</a></div>
-        <div class="col-xl-4 lg-4 sm-12"><a href="https://www.facebook.com/profile.php?id=61555859524630"
-                target="_blank">Facebook</a></div>
+    <div class="container">
+        <div id="footer" class="row text-center d-flex justify-content-around fixed-bottom">
+            <div class="col-xl-4 lg-4 col-sm-12 col-xs-12"><a href="mailto:jayscarrott22@gmail.com"
+                    target="_blank">Email</a></div>
+            <div class="col-xl-4 lg-4 col-sm-12"><a href="https://www.youtube.com/@mrjohnsontheband"
+                    target="_blank">Youtube</a>
+            </div>
+            <div class="col-xl-4 lg-4 col-sm-12"><a href="https://www.facebook.com/profile.php?id=61555859524630"
+                    target="_blank">Facebook</a></div>
+        </div>
     </div>
     <!--Footer-->
 </body>

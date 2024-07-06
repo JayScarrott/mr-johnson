@@ -72,8 +72,9 @@ body {
   scroll-margin-top: 5rem;
 }
 
-.songs h3 {
+#songs h3 {
   font-family: "Bebas Neue", Arial, Helvetica, sans-serif ;
+ font-size: 20px;
 }
 
 #intro {
