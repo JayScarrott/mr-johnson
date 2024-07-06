@@ -1,5 +1,7 @@
 # Mr Johnson
 This website was created to provide an easy way for fans of Mr Johnson to keep track of news, gigs and general info of the band.
+
+[View the Mr Johnson Website here](https://jayscarrott.github.io/mr-johnson/)
 ## Contents
 * [User Experience](#user-experience-ux)
   * [Initial Discussion](#initial-discussion)
