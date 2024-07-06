@@ -177,7 +177,7 @@ The local development section gives instructions on how someone else could make 
 
 ### Code Used
 
-If you have used some code in your project that you didn't write, this is the place to make note of it. Credit the author of the code and if possible a link to where you found the code. You could also add in a brief description of what the code does, or what you are using it for here.
+I used samples of code form the bootstrap documentation, and edited it to fit my page.
 
 ### Content
 
@@ -185,7 +185,7 @@ I wrote the majority of the content, but the band members all wrote their own bi
 
 ###  Media
 
-If you have used any media on your site (images, audio, video etc) you can credit them here. I like to link back to the source where I found the media, and include where on the site the image is used.
+All media used on the site is from the band.
 
 ###  Acknowledgments
 
