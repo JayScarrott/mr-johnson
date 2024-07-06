@@ -135,8 +135,6 @@ Deque University Colour Contrast Analyzer - Checking colour contrast for accessi
 
 ## Deployment & Local Development
 
-👩🏻‍💻 View an example of a completed Deployment & Local Development section [here](https://github.com/kera-cudmore/TheQuizArms#Deployment)
-
 ### Deployment
 
 My website was used to deploy my website, the instructions are as follows:
