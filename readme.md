@@ -170,20 +170,6 @@ My website was used to deploy my website, the instructions are as follows:
 
 ## Testing
 
-### W3C
-
-[W3C CSS](assets/readme/w3c-css.jpg)
-[W3C HTML](assets/readme/w3c-html.jpg)
-
-### Lighthouse
-
-[Desktop](assets/readme/lighthouse-desktop.jpg)
-[Mobile](assets/readme/lighthouse-mobile.jpg)
-
-The main thing that gave poor results in the Lighthouse test was the best practices. Looking at this, it's third party cookies that are causing the issue.
-
-I also had a problem with the performance when testing it for mobile, it would vary quite regularly. I think  this is mainly down to the age of my laptop, with which I was testing the website.
-
 ## Credits
 
 ### Code Used
