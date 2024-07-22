@@ -28,9 +28,9 @@ I also had a problem with the performance when testing it for mobile, it would v
 | Have easy access to our social media platforms | The Social media platforms are fixed to the bottom of the page. |
 | Be able to hear what the band sounds like | There are videos and audios tracks, which both have a link on the navbar |
 | :--- | ---: |
-|  |  |
-|  |  |
-|  |  |
+| Returning Visitors |
+| Access to new content such as videos and music tracks | Returning visitors should hopefully see how the amount of content increases, and eventually each section has it's own page. |
+| See upcoming gig dates |  |
 |  |  |
 |  |  |
 |  |  |
