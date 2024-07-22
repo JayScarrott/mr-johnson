@@ -29,8 +29,6 @@ This website was created to provide an easy way for fans of Mr Johnson to keep t
     * [How to Clone](#how-to-clone)
 
 * [Testing](#testing)
-  * [w3C](#w3c)
-  * [Lighthouse](#lighthouse)
 
 * [Credits](#credits)
   * [Code Used](#code-used)
@@ -169,6 +167,8 @@ My website was used to deploy my website, the instructions are as follows:
 
 
 ## Testing
+
+Please click [Here](testing.md) to view the all the testing done for this website.
 
 ## Credits
 
