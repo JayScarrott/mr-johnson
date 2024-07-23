@@ -236,13 +236,35 @@
         <!--Heading for page-->
 
         <!-- Gallery -->
-        <div class="row m-0">
-            <div class="col-lg-4 col-md-4 col-sm-12">
-                <img src="assets/img/gallery-images/lee-recording.webp" class="w-100 shadow-1-strong rounded mb-4"
-                    alt="Lee recording" />
 
-                <img src="assets/img/gallery-images/jay-recording.webp" class="w-100 shadow-1-strong rounded mb-4"
-                    alt="Jay recording" />
+        <div id="gallery-carousel" class="carousel slide">
+            <div class="carousel-inner">
+                <div class="col-sm-12 carousel-item active">
+                    <img src="assets/img/gallery-images/lee-recording.webp" class="w-100 shadow-1-strong rounded mb-4"
+                        alt="Lee recording" />
+                </div>
+                <div class="col-sm-12 carousel-item">
+                    <img src="assets/img/gallery-images/jay-recording.webp" class="w-100 shadow-1-strong rounded mb-4"
+                        alt="Jay recording" />
+                </div>
+            </div>
+            
+            <button class="carousel-control-prev" type="button" data-bs-target="#gallery-carousel" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+              </button>
+              <button class="carousel-control-next" type="button" data-bs-target="#gallery-carousel" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+              </button>
+
+        </div>
+
+        <div class="row m-0">
+            <div class="col-sm-12">
+
+
+
 
                 <img src="assets/img/gallery-images/gary-gig.webp" class="w-100 shadow-1-strong rounded mb-4"
                     alt="Gary at a gig" />
