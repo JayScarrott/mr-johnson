@@ -2,6 +2,11 @@
 
 ## Contents
 
+* [Automated Testing](#automated-testing)
+    * [W3C](#w3c)
+    * [Lighthouse](#lighthouse)
+* [Manual Testing](#manual-testing)
+
 ## Automated Testing
 
 ### W3C
