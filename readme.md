@@ -63,6 +63,10 @@ The target audience for this website, is fans for the band Mr Johnson, who want 
 
 #### Returning Visitor Goals
 
+* See updated content, such as new videos, photos and songs
+* See when the next set of gigs will be
+* Access the band's Spotify (when band is on Spotify)
+
 ## Design
 
 ### Colour Scheme
