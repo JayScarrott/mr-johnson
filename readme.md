@@ -45,12 +45,17 @@ I let the band discuss their ideas and helped guide them towards realistic expec
 
 ### User Stories
 
+#### Target Audience
+
+The target audience for this website, is fans for the band Mr Johnson, who want to stay update with the band and interact with media related to the band.
+
 #### First Time Visitor Goals
 
 * All the information fans of the band would like
 * Easy navigation throughout the site
-* Quick access to social media of Mr Johnson
-* Consistent style throughout the the site, fitting Mr Johnson
+* Be able to hear what the band sounds like
+* Have easy access to our social media platforms
+* 
 
 ## Design
 
