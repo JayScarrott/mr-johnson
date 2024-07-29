@@ -81,9 +81,8 @@ body {
  font-size: 20px;
 }
 
-.carousel-inner > .item > img {
-  width:360px;
-  height:140px;
+.carousel-inner img {
+
 }
 
 #intro {
