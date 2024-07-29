@@ -55,7 +55,8 @@ The target audience for this website, is fans for the band Mr Johnson, who want 
 * Easy navigation throughout the site
 * Be able to hear what the band sounds like
 * Have easy access to our social media platforms
-* 
+* See upcoming Mr Johnson gigs
+* Have access to a way to contact Mr Johnson
 
 ## Design
 
