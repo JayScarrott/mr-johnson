@@ -6,6 +6,9 @@ This website was created to provide an easy way for fans of Mr Johnson to keep t
 * [User Experience](#user-experience-ux)
   * [Initial Discussion](#initial-discussion)
   * [User Stories](#user-stories)
+   * [Target Audience](#target-audience)
+   * [First Time Visitor Goals](#first-time-visitor-goals)
+   * [Returning Visitor Goals](#returning-visitor-goals)
 
 * [Design](#design)
   * [Colour Scheme](#colour-scheme)
@@ -57,6 +60,8 @@ The target audience for this website, is fans for the band Mr Johnson, who want 
 * Have easy access to our social media platforms
 * See upcoming Mr Johnson gigs
 * Have access to a way to contact Mr Johnson
+
+#### Returning Visitor Goals
 
 ## Design
 
