@@ -77,7 +77,7 @@ body {
 }
 
 .carousel-inner img {
-
+max-height: 300px;
 }
 
 #intro {
