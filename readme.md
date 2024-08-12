@@ -50,6 +50,10 @@ I let the band discuss their ideas and helped guide them towards realistic expec
 
 With all of the above in mind, I aimed to create a clean, clear website, yet still with that sense of the early internet (which is an aesthetic I personally really enjoy). I wanted to get the information over in a practical way, but still with plenty of humour and a touch of self deprication, which is the Mr Johnson speciality.
 
+During this initial discussion, we also planned a rough draft of the first three pages of the wesbite, as can be seen in the images below.
+
+![Home Draft](assets/readme/home-draft.webp) ![About Draft](assets/readme/about-draft.webp) ![Music Draft](assets/readme/music-draft.webp)
+
 ### User Stories
 
 #### Target Audience
