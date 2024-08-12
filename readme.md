@@ -18,7 +18,6 @@ This website was created to provide an easy way for fans of Mr Johnson to keep t
   * [Wireframes](#wireframes)
 
 * [Features](#features)
-  * [General Features on Each Page](#general-features-on-each-page)
   * [Future Implementations](#future-implementations)
   * [Accessibility](#accessibility)
 
@@ -126,10 +125,15 @@ Being a website for a band, most of the imagery will be either shots of the band
 
 ## Features
 
-### General features on each page
+The website consists of one page with several different sections, covering different content realted to the band. These sections are accessed either from simply scrolling or clicking the desired button on the nav bar.
 
-* A header that consists of a logo with a hyperlink to the Home page and a responsive navigation bar, with buttons for each page of the site.
+Throughout the wesbite, different features can be found, as listed below;
+
+* A header that consists of a logo with a hyperlink to the Home section and a responsive navigation bar, with buttons for each section of the site.
 * A footer that has links to Youtube, Facebook and an email link that all open in new pages.
+* Videos with controls and no auto play, from the Mr Johnsons Youtube channel.
+* Audio tracks of Mr Johnsons songs, with controls and no autoplay.
+* An image carousel.
 
 ### Future Implementations
 
