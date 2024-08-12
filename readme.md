@@ -43,8 +43,12 @@ This website was created to provide an easy way for fans of Mr Johnson to keep t
 
 ### Initial Discussion
 
+A big part of the desire for this website being made, was that we wanted to go back to that feeling of the early internet, where you felt a lot a closer to bands and artists when accessing their websites. Their websites had a real sense of personality, and were a genuine look at who they were before social media. As a band, Mr Johnson knows that we aren't going to take over the world, we just love playing music, and we want our listeners and fans to see that in all our media, not just through our performances, we want to come across as very human in regards to our online presence. 
+
 The band and I all had an initial meeting, where we discussed what we wanted the website to be. We covered layout, colour scheme, fonts, and overall content.
 I let the band discuss their ideas and helped guide them towards realistic expectations as this would be my first website.
+
+With all of the above in mind, I aimed to create a clean, clear website, yet still with that sense of the early internet (which is an aesthetic I personally really enjoy). I wanted to get the information over in a practical way, but still with plenty of humour and a touch of self deprication, which is the Mr Johnson speciality.
 
 ### User Stories
 
