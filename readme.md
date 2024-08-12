@@ -7,6 +7,7 @@ This website was created to provide an easy way for fans of Mr Johnson to keep t
   * [Initial Discussion](#initial-discussion)
   * [User Stories](#user-stories)
    * [Target Audience](#target-audience)
+   * [Client Goals](#client-goals)
    * [First Time Visitor Goals](#first-time-visitor-goals)
    * [Returning Visitor Goals](#returning-visitor-goals)
 
@@ -68,6 +69,15 @@ During this initial discussion, we also planned a rough draft of the first three
 #### Target Audience
 
 The target audience for this website, is fans for the band Mr Johnson, who want to stay update with the band and interact with media related to the band.
+
+#### Client Goals
+
+* Represent the band professionally but with personality
+* Strong sense of style throughout the site
+* Have content unique to the website
+* Easy access to social medai pages
+* Have a way for people to easily contact the band
+* Create a hub for all Mr Johnson news and content
 
 #### First Time Visitor Goals
 
