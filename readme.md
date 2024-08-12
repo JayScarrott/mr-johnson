@@ -45,6 +45,15 @@ This website was created to provide an easy way for fans of Mr Johnson to keep t
 
 A big part of the desire for this website being made, was that we wanted to go back to that feeling of the early internet, where you felt a lot a closer to bands and artists when accessing their websites. Their websites had a real sense of personality, and were a genuine look at who they were before social media. As a band, Mr Johnson knows that we aren't going to take over the world, we just love playing music, and we want our listeners and fans to see that in all our media, not just through our performances, we want to come across as very human in regards to our online presence. 
 
+With the website, we wanted to create a hub for all of our content. You can go to our Facebook page to see our upcoming gigs and the odd media post. You can go to our Youtube channel and view the videos we've posted, but not all of the posts we've not recorded ourselves and have been posted elsewhere. Neither facebook or Youtube are perfect ways of presenting all of our content, and a lot of personality is lost along the way. The website on the other hand will have all of the above and more;
+
+* Photos that can't be found anywhere else.
+* Early demos of songs.
+Early releases of songs before they're posten anywhere else.
+* Bios of the band members.
+* More overall information.
+* More personality.
+
 The band and I all had an initial meeting, where we discussed what we wanted the website to be. We covered layout, colour scheme, fonts, and overall content.
 I let the band discuss their ideas and helped guide them towards realistic expectations as this would be my first website.
 
