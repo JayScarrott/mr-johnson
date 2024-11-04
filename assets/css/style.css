@@ -14,6 +14,27 @@
   }
 }
 
+@keyframes fadeIn {
+  0% { opacity:0; }
+  100% { opacity: 1; }
+}
+
+@-moz-keyframes fadeIn {
+  0% { opacity:0; }
+  100% { opacity: 1; }
+}
+
+@-webkit-keyframes fadeIn {
+  0% { opacity:0; }
+  100% { opacity: 1; }
+}
+
+@-o-keyframes fadeIn {
+  0% { opacity:0; }
+  100% { opacity: 1; }
+}
+
+
 * {
   box-sizing: border-box;
   font-family: "Roboto Mono", sans-serif;
@@ -23,6 +44,10 @@
 body {
   background-color: #f1de8a;
   padding: 80px;
+}
+
+.container {
+  animation: fadeIn 5s;
 }
 
 .navbar {
@@ -54,6 +79,10 @@ body {
 
 .active {
   color: black;
+}
+
+.fade-in-text {
+  animation: fadeIn 5s;
 }
 
 .page-header {
