@@ -3,37 +3,56 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
 
 @media screen and (max-width: 768px) {
-  h1{
-      font-size:32px;
+  h1 {
+    font-size: 32px;
   }
 }
 
 @media screen and (max-width: 768px) {
-  h3{
-      font-size:14px;
+  h3 {
+    font-size: 14px;
   }
 }
 
 @keyframes fadeIn {
-  0% { opacity:0; }
-  100% { opacity: 1; }
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
 }
 
 @-moz-keyframes fadeIn {
-  0% { opacity:0; }
-  100% { opacity: 1; }
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
 }
 
 @-webkit-keyframes fadeIn {
-  0% { opacity:0; }
-  100% { opacity: 1; }
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
 }
 
 @-o-keyframes fadeIn {
-  0% { opacity:0; }
-  100% { opacity: 1; }
-}
+  0% {
+    opacity: 0;
+  }
 
+  100% {
+    opacity: 1;
+  }
+}
 
 * {
   box-sizing: border-box;
@@ -42,8 +61,39 @@
 }
 
 body {
+  background-color: #25555B;
+  padding: 80px;
+}
+
+#home-page {
   background-color: #f1de8a;
   padding: 80px;
+}
+
+#videos-page {
+  background-color: #FFEF61;
+  padding: 80px;
+}
+
+#gigs-page {
+  background-color: #ffffff;
+}
+
+#gigs-photo {
+  background-color: #ffffff;
+  padding: 80px;
+}
+
+#about-page {
+  background-color: #f8f2b8;
+}
+
+#music-page {
+  background-color: #6ef1a9;
+}
+
+#gallery-page {
+  background-color: #faee86;
 }
 
 .container {
@@ -58,9 +108,9 @@ body {
 .navbar-brand {
   color: #FFEF61;
   font-family: "Bungee Outline", sans-serif;
-  font-weight:bold;
+  font-weight: bold;
   font-size: 40px;
-  
+
 }
 
 .navbar-nav a {
@@ -101,16 +151,16 @@ body {
 }
 
 #songs h3 {
-  font-family: "Bebas Neue", Arial, Helvetica, sans-serif ;
- font-size: 20px;
+  font-family: "Bebas Neue", Arial, Helvetica, sans-serif;
+  font-size: 20px;
 }
 
 #gallery-carousel {
-background-color: black;  
+  background-color: black;
 }
 
 .carousel-inner img {
-max-height: 600px;
+  max-height: 600px;
 }
 
 #intro {
@@ -126,9 +176,9 @@ max-height: 600px;
   padding-bottom: 4rem;
 }
 
-#footer{
+#footer {
   background-color: #8EE1D7;
-  
+
 }
 
 #footer a {
