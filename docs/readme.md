@@ -61,7 +61,7 @@ With all of the above in mind, I aimed to create a clean, clear website, yet sti
 
 During this initial discussion, we also planned a rough draft of the first three pages of the wesbite, as can be seen in the images below.
 
-![Home Draft](assets/img/readme/home-draft.webp) ![About Draft](assets/img/readme/about-draft.webp) ![Music Draft](assets/img/readme/music-draft.webp)
+![Home Draft](assets/img/readme/download.jpg) ![About Draft](assets/img/readme/about-draft.webp) ![Music Draft](assets/img/readme/music-draft.webp)
 
 ### User Stories
 
