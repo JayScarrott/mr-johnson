@@ -61,7 +61,7 @@ With all of the above in mind, I aimed to create a clean, clear website, yet sti
 
 During this initial discussion, we also planned a rough draft of the first three pages of the wesbite, as can be seen in the images below.
 
-![Home Draft](/workspace/mr-johnson/docs/home-draft.webp) ![About Draft](assets/img/readme/about-draft.webp) ![Music Draft](assets/img/readme/music-draft.webp)
+![Home Draft](../assets/img/readme/home-draft.webp) ![About Draft](../assets/img/readme/about-draft.webp) ![Music Draft](../assets/img/readme/music-draft.webp)
 
 ### User Stories
 
@@ -103,11 +103,11 @@ Once I actually began styling the website with the initial colour scheme, I test
 
 I've changed the colour scheme to mainly consist of yellow and blue, with black text. This helps with the accessibility of the site, but gives the website quite a striking presentation.
 
-![Colour Palette](assets/img/readme/cooler.jpg)
+![Colour Palette](../assets/img/readme/cooler.jpg)
 
 ### Typography
 
-![Font Ideas](assets/img/readme/font-ideas.webp)
+![Font Ideas](../assets/img/readme/font-ideas.webp)
 
 Once we knew the overall "vibe" we were going for, we looked at a lot of different fonts. One of the band members sent the above picture with font ideas. I did say that I may not be able to use them exactly, as they are from 1001fonts and dafont, but I'll stick as close as I can, wishing to use Google fonts for my first project, to keep things relatively simple.
 
@@ -117,11 +117,11 @@ Being a website for a band, most of the imagery will be either shots of the band
 
 ### Wireframes
 
-![Home Page](assets/img/readme/home.png)
-![Videos](assets/img/readme/videos.png)
-![About](assets/img/readme/about.png)
-![Our Music](assets/img/readme/our-music.png)
-![Gallery](assets/img/readme/gallery.png)
+![Home Page](../assets/img/readme/home.png)
+![Videos](../assets/img/readme/videos.png)
+![About](../assets/img/readme/about.png)
+![Our Music](../assets/img/readme/our-music.png)
+![Gallery](../assets/img/readme/gallery.png)
 
 ## Features
 
