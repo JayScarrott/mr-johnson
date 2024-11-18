@@ -39,6 +39,21 @@ I also had a problem with the performance when testing it for mobile, it would v
 | See upcoming gig dates | The users can quickly access our upcoming gigs be selecting the button in the navbar or scrolling down to the appropriate section. |
 | Access to Spotify | Mr Johnson will soon be on spotify, a link to which will be added to the fixed footer |
 
+| Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
+| --- | --- | --- | --- | --- |
+| Site title page | Clicking the button will take the user to the top of the page | Clicked the title page button | User is taken to the Home Page section | Pass |
+| Nav buttons | Clicking on the selected nav button will take the user to the desired section | Clicked on all of the nav buttons | All buttons work and take user to desired section | Pass |
+| Navbar hover effect | When cursor is over any navbar buttons the colour of the buttons will change, and change back when cursor is moved away | Cursor was hovered over all navbar elements | All navbar buttons changed colour and then changed back when cursor is moved away | Pass |
+| YouTube video | When the play button is clicked, it will start the video and all the YouTube controls are available | Play button was pressed | The videos played and all YouTube media control are available | Pass |
+| Music player | The user can play, mute, select a specific part of the song and download the track | The songs was played, muted, downloaded and the seeking bar was used to select specific parts of the song | Everthing works as it's supposed to | Pass |
+| Gallery Carousel | Images automatically scroll through the gallery without needing user interaction | No action required | Images automatically go through rotation, eventually displaying all images in the gallery | Pass |
+| Gallery Buttons | Goes to next or previous image | Both buttons were pressed | Next or previous is displayed, depending on which button is clicked | Pass |
+| Scrolling | Using the scrollbar allows users to navigate up and down the page | Clicking and dragging the scrollbar. Using a mouse wheel and touchpad to navigate | The page scrolls up and down as expected | Pass |
+| Email button | Will open the users default email option or when right clicked, gives the option to copy email address | Clicked on the email button | When clicked, Gmail is opened. When right clicked, more options are available, including copying email address | Pass |
+| Youtube button | The button should take the user to the Mr Johnson YouTube page, opening in a new tab | Clicking on the link | A new tab opens and takes the user to the Mr Johnson YouTube page | Pass |
+| Facebook button | The button should take the user to the Mr Johnson Facebook page, opening in a new tab | Clicking on the link | A new tab opens and takes the user to the Mr Johnson Facebook page | Pass |
+
+
 ### Solved Bugs
 
 Being a relatively simple website, I haven't encountered many bugs, but here are the ones I have found.
