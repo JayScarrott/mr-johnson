@@ -67,3 +67,5 @@ Being a relatively simple website, I haven't encountered many bugs, but here are
 ### Known Bugs
 
 1. In the image carousel, there a few images that have a smaller max-height than the set 600px. This causes an issue with the carousel shrinking ever so slightly to fit these images. This will be an easy enough fix of just finding the lowest max-height of the images in the carousel and adjusting the max-height in CSS. This will be changed when time permits.
+
+2. When the site is being viewed on a smaller screen, the videos extend past the the the parent div, so the formatting looks a bit off. All content stay within the screen, it just doesn't look great. 
